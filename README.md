@@ -1,7 +1,7 @@
 🎬 Movie App 🍿
 Search for your favorite movies 🎥, view their details, and save them to your favorites list! Built with vanilla JavaScript and styled for a modern, responsive experience.
 
-🔗 Live Demo
+🔗 Live Demo: https://niteshvarma123.github.io/movie-app/
 
 🚀 Features
 ✅ Search movies using the OMDb API
